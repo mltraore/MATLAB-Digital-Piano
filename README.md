@@ -1,4 +1,4 @@
-<h1> Digital Piano </h1>
+<h1> Dijital Piano </h1>
 <p>Bu uygulamada , Matlab ortamında dijital bir piano yapılmıştır. <br>
    Piano arayüzü Matlab GUI (The GUIDE environment) ile tasarlanmıştır.<br>
    R2020a ve üzeri Matlab versyonlarında GUIDE ortamı kaldırılması sebebiyle <br>
