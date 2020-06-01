@@ -8,5 +8,5 @@
    Matlab <a href="https://www.mathworks.com/help/matlab/creating_guis/differences-between-app-designer-and-guide.html">GUIDE Migration Strategies </a> 
    linkinde bulabilirsiniz.
 </p>
-<h1> Piano </h1>
+<h1> Arayüz </h1>
 <img src="piano.png" alt="Piano" title="Piano">
